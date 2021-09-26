@@ -1,6 +1,8 @@
+[Home](https://codingclubmwsc.github.io) / Getting Started
+
 # How to get started Coding
 Here we will show you resources that you can use to get started or to level up your coding skills.  
-(Note: The "Level" system is based on my opinion and is not 100% accurate, it only exists to shows useful resources and a rough idea of where to start.)
+(Note: The "Level" system is based on my opinion and is not 100% accurate, it only exists to show useful resources and a rough idea of where to start.)
 
 ## Level 0: How a computer thinks
 Here are some resources you can use to start programming with no prior knowledge.  
@@ -8,14 +10,14 @@ Use these resources to learn how a computer "thinks" about its instructions.
 (eg. Follows instructions from top to bottom, etc)
 
 ### [Code.org](https://code.org/learn)
-Activites here range from pre-reader to Grade 9+.
-This website is a huge list of coding activites and includes some that we will mention later.
+Activities here range from pre-reader to Grade 9+.
+This website is a huge list of coding activities and includes some that we will mention later.
 If you have no prior experience, basic knowledge or just want to find new resources [Code.org](https://code.org/learn) is a great website to use.  
 
 ![image](https://user-images.githubusercontent.com/61924012/134793126-0f906cff-51cb-42b5-879a-6dd25a515dfa.png)
 
 ### Alternative: Apple Swift Playground
-While only being a option if you have an apple device, Swift Playground is still a good choice if you enjoy puzzles. To get it download it from the App Store.  
+While only being an option if you have an apple device, Swift Playground is still a good choice if you enjoy puzzles. To get it download it from the App Store.  
 
 ![image](https://user-images.githubusercontent.com/61924012/134793260-22dde41e-7656-4a25-8d23-bf910eee6f0c.png)
 
@@ -37,7 +39,7 @@ try editing the project to change how things look and work.
 
 ### [CodeCombat](https://codecombat.com/)  
 CodeCombat is a great resource for people who are transitioning into using syntax.  
-CodeCombat is mainly a puzzle game, with code. It teachs you how to use either JavaScript or Python and makes you use it by completing puzzles.  
+CodeCombat is mainly a puzzle game, with code. It teaches you how to use either JavaScript or Python and makes you use it by completing puzzles.  
 Once you reach a high enough skill level there is even a competition called "[CodeCombat AI League](https://codecombat.com/league)", 
 where you can compete in a competitive AI battle simulator while learning Python and JavaScript.
 
