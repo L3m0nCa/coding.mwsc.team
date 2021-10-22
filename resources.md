@@ -6,3 +6,6 @@ To try to help in this process we have compiled a list of resources and tools th
 
 ### [IDEs](https://codingclubmwsc.github.io/resources/IDE.html)
 An good IDE can make writing code faster and easier and is a tool that all developers use.
+
+### [Adobe Creative Cloud](https://codingclubmwsc.github.io/resources/Adobe.html)
+Did you know you can get Adobe Creative Cloud for free while you are a student?
