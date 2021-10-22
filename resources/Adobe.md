@@ -26,7 +26,7 @@ Adobe Creative Cloud is very popular but there are free alternatives that you ca
 - DaVinci Resolve (Video Editing, Color Grading and more) (There is a free version and a paid version, the free version has heaps of features)
 
 I actually prefer DaVinci Resolve over Premiere Pro due to the more modern look, although you do lose some features such as being able to export 4k video
-because its the free version. Another advantage is that it is an alternative to Premiere Pro, After Effects and Audition in one application.  
+because its the free version. An advantage is that it is an alternative to Premiere Pro, After Effects and Audition in one application.  
 
 Blender is also a really good tool as its free & open source but has a huge feature set, [here](https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U&index=1)
 is a good tutorial on how to use blender
